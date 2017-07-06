@@ -1,12 +1,12 @@
 {
   "name": "food-bank",
-  "description": "A customizable food bank webapp",
+  "description": "A customizable food bank app",
   "version": "0.0.1",
   "author": "Stephen Onoja <stevenelnino101@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/stevieoj/food-bank-app"
   },
   "scripts": {
     "heroku-postbuild": "gulp build",
