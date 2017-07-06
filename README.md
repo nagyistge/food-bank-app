@@ -19,7 +19,7 @@ You'll need to have the latest verison of **Node.js** installed. Either use your
 This app uses **MongoDB** as its database engine. Follow [these instructions](https://docs.mongodb.com/manual/installation/#mongodb-community-edition) to install it locally and start the MongoDB server on your machine.
 
 Install [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) if it is not already installed. To clone this repository to your local machine, open a command line interface and navigate to the directory where you would like to the food-bank app directory to be in. Then run
-`git clone https://github.com/freeCodeCamp/Food-for-Good.git`
+`git clone https://github.com/stevieoj/food-bank-app`
 
 Move to the `Food-bank-app` directory and run the `npm install` command to install the application dependencies.
 
