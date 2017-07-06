@@ -1,17 +1,11 @@
 This repository is for the Food-Bank application.
 
-You can test it out by deploying to [Heroku](https://www.heroku.com):
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)]
-
-The button creates an admin account with username `admin@example.com` and password `password`.
-
 ------------
 ### Quick Start Steps:
 1. Install [Node.js](http://nodejs.org) and [MongoDB](https://docs.mongodb.com/manual/installation/#mongodb-community-edition)
 2. Start MongoDB
-3. `git clone https://github.com/freeCodeCamp/Food-for-Good.git`
-4. `cd Food-for-Good`
+3. `git clone https://github.com/stevieoj/food-bank-app`
+4. `cd Food-bank-app`
 5. `npm install`
 6. `npm run dev`
 7. Open <http://localhost:8080> in your web browser
@@ -27,7 +21,7 @@ This app uses **MongoDB** as its database engine. Follow [these instructions](ht
 Install [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) if it is not already installed. To clone this repository to your local machine, open a command line interface and navigate to the directory where you would like to the food-bank app directory to be in. Then run
 `git clone https://github.com/freeCodeCamp/Food-for-Good.git`
 
-Move to the `Food-for-Good` directory and run the `npm install` command to install the application dependencies.
+Move to the `Food-bank-app` directory and run the `npm install` command to install the application dependencies.
 
 Type `npm run dev` to start the application in development mode. If all goes well, it will be available at `http://localhost:8080`.  The application is pre-populated with an administrator account with username `admin@example.com` and password `password`.
 
@@ -52,6 +46,6 @@ Sendpulse email service API.  Required for the password reset by email to work.
 
 
 ------------
-### Contributing
+### Licence
 
-We welcome pull requests from seasoned Javascript developers. Please read our [guide](CONTRIBUTING.md) first, then check out our open issues.
+MIT
